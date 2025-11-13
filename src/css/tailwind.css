@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "swiper/css";
+@theme {
+  --breakpoint-sm: 0px;
+  --breakpoint-md: 480px;
+  --breakpoint-lg: 720px;
+  --breakpoint-xl: 1200px;
+  --breakpoint-2xl: 1400px;
+}
+
